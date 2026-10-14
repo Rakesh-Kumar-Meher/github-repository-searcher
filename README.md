@@ -208,6 +208,16 @@ src/
 
 The application handles GitHub HTTP errors and empty search results. API error responses are processed through a global exception handler.
 
+
+
+## Live Demo
+
+- **Live Backend:** https://github-repository-searcher-oiyq.onrender.com
+- **Swagger UI:** https://github-repository-searcher-oiyq.onrender.com/swagger-ui/index.html
+- **OpenAPI Specification:** https://github-repository-searcher-oiyq.onrender.com/v3/api-docs
+
+> **Note:** The backend is hosted on Render's free tier and may take a short time to respond after a period of inactivity.
+
 ## Author
 
 Rakesh Kumar Meher
